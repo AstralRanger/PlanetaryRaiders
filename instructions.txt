@@ -1,0 +1,3 @@
+Objectives: Avoid enemies and shoot down enemies to get a high score
+
+Controls: Space to SHOOT, arrow keys to move
